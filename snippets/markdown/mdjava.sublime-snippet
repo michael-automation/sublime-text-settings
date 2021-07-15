@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+```java
+
+$1
+
+```
+]]></content>
+<tabTrigger>mdjava</tabTrigger>
+<description>Markdown Java</description>
+<!-- <scope>text.html.markdown, markup.raw.block.markdown, markup.raw.block.fenced.markdown, punctuation.definition.fenced.markdown</scope> -->
+</snippet>
