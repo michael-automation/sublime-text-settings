@@ -1,0 +1,7 @@
+[
+ { "keys": ["shift+space"], "command": "move", "args": {"by": "word_ends", "forward": true}},
+ { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace"},
+ {"keys": ["x", "x"], "command": "advanced_new_file"},
+ { "keys": ["alt+d"], "command": "run_macro_file", "args": {"file": "Packages/User/sublime-text-settings/Macros/double-line.sublime-macro"}},
+ { "keys": ["alt+z"], "command": "run_macro_file", "args": {"file": "Packages/User/sublime-text-settings/Macros/single-line.sublime-macro"}}
+]
